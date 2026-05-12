@@ -14,18 +14,20 @@ Eric Daniel Velázquez- Bruno Martin Velázquez
 
 
 ejem03
+
+- Evaluar inconvenientes de correr scripts de S.O. (Portabilidad)
+- 
+  Mantenimiento y debugging:
+Los scripts de shell son difíciles de depurar dentro de un contenedor. Los errores no siempre son claros, y rastrear qué falló en qué paso puede ser tedioso.
+
+  Reproducibilidad:
+Los scripts pueden comportarse diferente según la versión del S.O., variables de entorno, o el estado del sistema en ese momento. Eso va en contra de la filosofía de Docker de tener builds determinista.
+
 <img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 18 48 51" src="https://github.com/user-attachments/assets/a3b87344-ffe8-4b0b-9d26-c62c18a00762" />
 
 <img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 19 06 38" src="https://github.com/user-attachments/assets/584b7da4-6368-44e9-968b-61b0271e5c09" />
 
 
-- Evaluar inconvenientes de correr scripts de S.O. (Portabilidad)
-- 
-  Mantenimiento y debugging
-Los scripts de shell son difíciles de depurar dentro de un contenedor. Los errores no siempre son claros, y rastrear qué falló en qué paso puede ser tedioso.
-
-  Reproducibilidad
-Los scripts pueden comportarse diferente según la versión del S.O., variables de entorno, o el estado del sistema en ese momento. Eso va en contra de la filosofía de Docker de tener builds determinista.
 
 ejem04
 
@@ -35,6 +37,9 @@ ejem04
 ejem07 Implementar
 
 <img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 19 04 50" src="https://github.com/user-attachments/assets/a3c0ef04-89cc-45b9-8125-176e8da1a366" />
+
+<img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 19 08 47" src="https://github.com/user-attachments/assets/25c44c9e-acf7-4cdf-bbe6-daff92e120c2" />
+
 
 
 
