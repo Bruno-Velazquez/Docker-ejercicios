@@ -16,6 +16,9 @@ Eric Daniel Velázquez- Bruno Martin Velázquez
 ejem03
 <img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 18 48 51" src="https://github.com/user-attachments/assets/a3b87344-ffe8-4b0b-9d26-c62c18a00762" />
 
+<img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 19 06 38" src="https://github.com/user-attachments/assets/584b7da4-6368-44e9-968b-61b0271e5c09" />
+
+
 - Evaluar inconvenientes de correr scripts de S.O. (Portabilidad)
 - 
   Mantenimiento y debugging
@@ -23,6 +26,11 @@ Los scripts de shell son difíciles de depurar dentro de un contenedor. Los erro
 
   Reproducibilidad
 Los scripts pueden comportarse diferente según la versión del S.O., variables de entorno, o el estado del sistema en ese momento. Eso va en contra de la filosofía de Docker de tener builds determinista.
+
+ejem04
+
+<img width="886" height="498" alt="WhatsApp Image 2026-05-12 at 19 06 53" src="https://github.com/user-attachments/assets/836074c8-0c95-42b6-b14e-581c0d3a36c9" />
+
 
 ejem07 Implementar
 
