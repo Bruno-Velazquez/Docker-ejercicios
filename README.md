@@ -24,6 +24,10 @@ Los scripts de shell son difíciles de depurar dentro de un contenedor. Los erro
   Reproducibilidad
 Los scripts pueden comportarse diferente según la versión del S.O., variables de entorno, o el estado del sistema en ese momento. Eso va en contra de la filosofía de Docker de tener builds determinista.
 
+ejem07 Implementar
+
+<img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 19 04 50" src="https://github.com/user-attachments/assets/a3c0ef04-89cc-45b9-8125-176e8da1a366" />
+
 
 
 
