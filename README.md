@@ -17,8 +17,10 @@ ejem03
 <img width="1366" height="768" alt="WhatsApp Image 2026-05-12 at 18 48 51" src="https://github.com/user-attachments/assets/a3b87344-ffe8-4b0b-9d26-c62c18a00762" />
 
 - Evaluar inconvenientes de correr scripts de S.O. (Portabilidad)
+- 
   Mantenimiento y debugging
 Los scripts de shell son difíciles de depurar dentro de un contenedor. Los errores no siempre son claros, y rastrear qué falló en qué paso puede ser tedioso.
+
   Reproducibilidad
 Los scripts pueden comportarse diferente según la versión del S.O., variables de entorno, o el estado del sistema en ese momento. Eso va en contra de la filosofía de Docker de tener builds determinista.
 
